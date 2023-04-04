@@ -3,3 +3,12 @@
   margin: 0;
   padding: 0;
 }
+
+.header, .about, .portfolio, .contact {
+  margin: 2em 2em;
+}
+
+.header h1, .about h1, .portfolio h1, .contact h1 {
+  margin: .75em 0;
+  color: #563727;
+}

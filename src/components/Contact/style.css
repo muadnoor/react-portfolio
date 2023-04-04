@@ -1,0 +1,34 @@
+.contact form {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.contact form button {
+    background: #563727;
+    color: white;
+    border-radius: 4px;
+    border: 1px solid #372C2E;
+    padding: 4px;
+    margin: 5px;
+   width: 20%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.contact form div input, .contact form div textarea {
+    width: 45%;
+    height: 25px;
+    text-align: left;
+}
+
+.contact form div textarea {
+    height: 75px;
+    resize: none;
+}
+
+.contact form div {
+    margin: 8px 0 10px 0 ;
+}
